@@ -127,7 +127,7 @@ cat > "$INDEX_FILE" << 'EOF'
                 Protected by: 
                 <span class="label label-primary">@XyzFalll</span>
                 <span class="label label-success">@About_falll</span>
-                <span class="label label-info">Jhonaley Tech</span>
+                <span class="label label-info">Fall Protect</span>
             </p>
         </div>
         @else
